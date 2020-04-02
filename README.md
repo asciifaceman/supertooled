@@ -1,6 +1,9 @@
 # Supertooled
 A Chrome extension that converts the Image links in supertool.com for sale lists to in-line images for ease of browsing.
 
+# Permissions
+Only requires `Storage` permissions to save settings.
+
 # Installation
 
 ### From Source
